@@ -1,6 +1,9 @@
 # row_column
 
-A new Flutter project.
+- Flutter의 Row, Column, main 사용 연습입니다.
+- mainAxisAlignment, crossAxisAlignment 사용법을 익힙니다.
+- 해당 화면 클론을 목표로 합니다.
+![Alt text](image.png)
 
 ## Getting Started
 
@@ -14,4 +17,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# flutter_row_column
